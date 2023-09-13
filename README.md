@@ -1,7 +1,7 @@
-
 # bienesraicesMVC
 
 bienesraicesMVC is a simple web page in *Spanish* designed for a ***Jr.Developer***, focused on real estate companies, allowing administrators to easily create new property advertisements.
+[![Bienes-Raices.png](https://i.postimg.cc/rmwR5DwF/Bienes-Raices.png)](https://postimg.cc/xkBd2TmW)
 
 ## Essential Technologies:
 
